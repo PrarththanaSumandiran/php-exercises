@@ -13,7 +13,7 @@
 <body>
     <h1 class="text-align-center">student Registration form</h1>
   <div class="container" style="background-color:violet">
- <form>
+ <form action="insertstudentdata.php" method="post">
 <div class="form-group" style="margin-bottom:20px;">
     <label for="exampleInputEmail1">student id</label>
 
